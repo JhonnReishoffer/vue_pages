@@ -37,7 +37,7 @@
         <ButtonBase>Já sou assinante</ButtonBase>
       </div>
     </div>
-    <div class="text-xs text-gray-400 mt-6">
+    <div class="text-xs text-gray-400 mt-2">
         <a><p>TERMO DE PROTEÇÃO DE PRIVACIDADE</p></a>
         <a><p>POLÍTICA DE PRIVACIDADE</p></a>
         <a><p>INSTRUMENTO PARTICULAR DE ACEITE DE LICENÇA DE USO DOS SERVIÇOS E SOLUÇÕES DA PLATAFORMA MEiShop</p></a>
@@ -47,4 +47,5 @@
 
 <script setup lang="ts">
     import ButtonBase from '~/components/atoms/ButtonBasePurple.vue'
+    import FooterLink from '~/components/atoms/FooterLink.vue'
 </script> 
