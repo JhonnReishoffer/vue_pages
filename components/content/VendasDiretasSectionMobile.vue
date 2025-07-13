@@ -47,27 +47,27 @@
         <h2 class="text-lg font-bold text-center">RESULTADOS PARA VOCÊ, VENDEDOR:</h2>
         <ul class="space-y-2 text-sm text-gray-800">
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5 mt-1" />
             <span>Acesso a <span class="font-bold">benefícios previdenciários</span></span>
           </li>
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5  mt-1" />
             <span><span class="font-bold">Economia em impostos</span> e recolhimento simplificado</span>
           </li>
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5 mt-1" />
             <span><span class="font-bold">Credibilidade</span> com emissão de notas fiscais</span>
           </li>
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5  mt-1" />
             <span>Relacionamento via <span class="font-bold">CNPJ com segurança jurídica e trabalhista</span></span>
           </li>
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5  mt-1" />
             <span><span class="font-bold">Vantagens ao realizar compras</span> com CNPJ</span>
           </li>
           <li class="flex items-start gap-2">
-            <CheckIcon class="w-5 h-5 text-green-600 mt-1" />
+            <CheckIcon class="w-5 h-5  mt-1" />
             <span>Possibilidade de <span class="font-bold">atuar como MEI e CLT ao mesmo tempo</span></span>
           </li>
         </ul>
