@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-black text-white p-8">
-    <div class="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
-      <div>
+    <div class="max-w-screen-xl  mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="float-left ">
         <img src="/assets/images/logo_footer_1.png" alt="Logo MEISHOP" class="h-10" />
         <p class="text-xs ms-1 mt-2">Redes Socias MEISHOP</p>
         <div class="flex gap-2">
@@ -46,6 +46,6 @@
 </template>
 
 <script setup lang="ts">
-    import ButtonBase from '~/components/atoms/ButtonBasePurple.vue'
-    import FooterLink from '~/components/atoms/FooterLink.vue'
+    import ButtonBase from '~/components/items/ButtonBasePurple.vue'
+    import FooterLink from '~/components/items/FooterLink.vue'
 </script> 

@@ -8,5 +8,5 @@
 </template>
 
 <script setup lang="ts">
-import AppLogo from '@/components/atoms/AppLogo.vue'
+import AppLogo from '@/components/items/AppLogo.vue'
 </script>

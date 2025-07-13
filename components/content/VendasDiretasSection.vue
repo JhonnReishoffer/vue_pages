@@ -1,10 +1,11 @@
+
 <template>
-  <section class="w-full">
+  <section class="w-full items-center justify-center flex flex-col bg-white p-6 md:p-10">
     <div class="ms-[10vh] mx-auto bg-cover bg-center rounded-lg shadow-lg overflow-hidden">
         <img
         src="/assets/images/vendas_diretas.png"
         alt="Vendas Diretas Banner"
-        class="flex w-[90vw] max-h-100 mb-5"
+        class="flex w-[90vw] max-w-[1000px] max-h-100 mb-5"
         />
 
         <div class=" ms-14">
@@ -26,10 +27,7 @@
             <p class="text-sm mb-6 uppercase">Tudo isso com <span class="font-semibold">operação e atendimento totalmente a cargo da nossa plataforma.</span></p>
 
             <ButtonBasePink class="mb-6 ">QUERO CONTRATAR</ButtonBasePink>
-        </div>
-        
-
-        
+        </div>        
 
         <div class=" bg-gray-100 mx-auto float-left ms-13 w-fit flex flex-col md:flex-row items-center gap-8 mb-10 ps-4">
       
@@ -74,6 +72,6 @@
 </template>
 
 <script setup lang="ts">
-import ButtonBasePink from '~/components/atoms/ButtonBasePink.vue'
+import ButtonBasePink from '~/components/items/ButtonBasePink.vue'
 import { CheckIcon } from '@heroicons/vue/24/solid'
 </script>
