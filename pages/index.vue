@@ -1,7 +1,9 @@
 <template>
-  <VendasDiretasSection />
+  <div>
+    <h1>HOME</h1>
+  </div>>
 </template>
 
 <script setup lang="ts">
-    import VendasDiretasSection from '@/components/content/VendasDiretasSection.vue'
+    
 </script>
